@@ -1,10 +1,6 @@
 
 #### Tools
-Using minikube version: v1.26.1
-Using kind 
-podman
-PopOs!
-Fedora 41
+Using minikube version: v1.26.1 | Using kind | podman | PopOs! | Fedora 41
 
 #### Lab setup
   * Client: Podman Engine | Version: 5.3.1 | API Version:  5.3.1 | Go Version:  go1.23.3 | OS/Arch:linux/amd64
