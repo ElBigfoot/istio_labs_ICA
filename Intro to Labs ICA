@@ -1,1 +1,8 @@
 ## La Set up
+
+### tools
+   * podman
+   * kind
+   * minikube
+   * kubernetea 
+   * Istio
